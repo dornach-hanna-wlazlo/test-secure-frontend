@@ -17,6 +17,9 @@ npm install
 npm start
 ```
 
+
+
+
 ## Docker local run
 
 Change in package.json localhost to 0.0.0.0
