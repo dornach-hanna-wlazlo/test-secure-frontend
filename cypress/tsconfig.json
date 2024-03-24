@@ -11,14 +11,18 @@
             "es6",
             "dom"
         ],
-        "types": [
-            "cypress"
-        ]
+        "types": 
+             ["cypress", "@percy/cypress"] 
+        
     },
     "include": [
         "**/*.js",
         "**/*.ts",
         "../node_modules/cypress",
         "support/commands.jts"
+        
     ]
+    
+
 }
+
